@@ -7,7 +7,7 @@ PC壊れるのが怖かったらレジストリエディタ使って一つ一つ
 UUID: 10A8FB89-C66C-B776-65FE-943BDA2BF8AB
 ### 追加方法
 1. `Download.reg`内のファイルパスを書き換え。
-> `C:\\Users\\user\\icon\\download.ico`はアイコンファイルの場所に書き換え。
+> `C:\\Users\\user\\icon\\download.ico`はアイコンファイルの場所に書き換え。  
 > `C:\\Users\\user\\Downloads`は自分のダウンロードフォルダに書き換え。
 1. `Download.reg`をダブルクリック。
 
